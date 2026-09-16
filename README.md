@@ -43,5 +43,5 @@ Aplicación SaaS diseñada para gestionar eventos de llamadas perdidas y notific
 
 ### 📫 Contacto
 
-* **LinkedIn:** [Mi perfil de LinkedIn](https://www.linkedin.com/in/juanmarin-ortiz-5a618610b)
+* **LinkedIn:** [Mi perfil de LinkedIn](https://www.linkedin.com/in/juan-marin-ortiz-5a618610b/)
 * **Email:** [jmo129@gmail.com](mailto:jmo129@gmail.com)
